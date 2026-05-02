@@ -1,0 +1,9 @@
+Based on the conversation history above, generate a comprehensive onboarding summary in Markdown format. Include:
+
+1. **Team Overview** — who the team is, their size, methodology, and workflow preferences.
+2. **Configuration Plan** — what was decided and why (the reasoning behind each decision).
+3. **Actions Taken** — every tool that was called, what it did, and the result.
+4. **Decision Rationale** — explain key decisions like WIP limits, column structure, label choices, and milestone setup.
+5. **Next Steps** — recommendations for the team (e.g., how to start using the board, what to set up next).
+
+Output clean Markdown with proper headings and bullet points. Be thorough but concise.

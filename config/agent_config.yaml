@@ -1,0 +1,5 @@
+model: deepseek-chat
+max_turns: 20
+temperature: 0.6
+max_tokens: 4000
+api_base_url: https://api.deepseek.com/v1
